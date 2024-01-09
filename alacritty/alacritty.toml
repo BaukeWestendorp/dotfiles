@@ -1,0 +1,62 @@
+[env]
+TERM = "xterm-256color"
+
+[window]
+decorations = "full"
+
+[window.dimensions]
+columns = 160
+lines = 42
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "JetBrainsMono"
+style = "Regular"
+
+[colors.primary]
+background = "0x000000"
+foreground = "0xeaeaea"
+
+[colors.cursor]
+text = "0x020221"
+cursor = "0xffe8c0"
+
+[colors.normal]
+black = "0x000000"
+red = "0xd54e53"
+green = "0xb9ca4a"
+yellow = "0xe6ca4a"
+blue = "0x7aa6da"
+magenta = "0xc397d8"
+cyan = "0x70c0ba"
+white = "0xeeeeee"
+
+[colors.bright]
+black = "0x444444"
+red = "0xff3334"
+green = "0x9ec400"
+yellow = "0xe7c547"
+blue = "0x7aa6da"
+magenta = "0xb77ee0"
+cyan = "0x54ced6"
+white = "0xcccccc"
+
+[colors.search.matches]
+foreground = "0xb2b2b2"
+background = "0xb26818"
+
+[colors.search.focused_match]
+foreground = "CellBackground"
+background = "CellForeground"
+
+[colors.dim]
+black = "0x31363b"
+red = "0x783228"
+green = "0x17a262"
+yellow = "0xb65619"
+blue = "0x1b668f"
+magenta = "0x614a73"
+cyan = "0x186c60"
+white = "0x63686d"
